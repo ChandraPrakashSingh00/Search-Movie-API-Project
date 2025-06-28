@@ -14,7 +14,7 @@ Users can search for movies and see results in beautiful movie cards. It also in
 
 ## 🌐 Live Demo
 
-👉 [Click here to view live](https://your-username.github.io/movie-explorer-app)  
+👉 [Click here to view live](https://chandraprakashsingh00.github.io/Search-Movie-API-Project/)  
 _(Replace with your GitHub Pages URL if hosted)_
 
 ---
