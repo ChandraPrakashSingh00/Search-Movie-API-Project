@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🎬 Movie Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎬 Movie Explorer</h1>
+
+    <div class="mode-toggle">
+      <button onclick="toggleMode()">🌗 Toggle Dark / Light Mode</button>
+    </div>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search for a movie..." />
+      <button onclick="searchMovie()">Search</button>
+    </div>
+
+    <div class="movie-list" id="result">
+      
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
